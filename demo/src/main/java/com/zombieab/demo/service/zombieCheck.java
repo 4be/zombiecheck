@@ -5,7 +5,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class zombieCheck {
 
-    public static void main(String[] args) {
+    private void main(String[] args) {
 
     }
 
